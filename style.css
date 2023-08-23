@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(185, 158, 210);
+    
+}
+
+.heading {
+    text-align: center;
+    font-size: 5vw;
+    color: rgb(45, 30, 116);
+    font-weight: bold;
+    margin: 2vw;
+}
+.create{
+    font-size: 2vw;
+    font-weight: bold;
+}
+
+.clock {
+    font-size: 3vw;
+    text-align: center;
+    border: 1vw solid  rgb(193, 157, 221);
+    background-color: rgb(214, 149, 202);
+    border-radius: 4vw;
+    color: rgb(81, 33, 123);
+    margin: 0vw 10vw;
+    box-shadow: 1vw 1vw 1vw 1vw rgb(85, 69, 98);
+}
+h1,h2{
+    background-color: rgb(214, 149, 202); 
+    font-size: 5vw;
+}
+
